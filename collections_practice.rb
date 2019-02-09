@@ -51,11 +51,11 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.each_with_index.map do |element, i|
-    if i == 1 
+  array.map do |word|
+    if word == 1 
       element 
     else 
-      element + "s"
+      word + "s"
     end
   end 
 end
