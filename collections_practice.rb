@@ -22,11 +22,9 @@ def sort_array_char_count(array)
   end
 end
 
-
 def swap_elements
   
 end
-
 
 def reverse_array
   
@@ -43,7 +41,6 @@ end
 def sum_array
   
 end
-
 
 def add_s
   
