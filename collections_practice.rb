@@ -42,7 +42,8 @@ def find_a
   
 end
 
-def sum_array
+def sum_array(array)
+  
   
 end
 
